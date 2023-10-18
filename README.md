@@ -1,5 +1,4 @@
-# Ananshia-AI-Playground
-Welcome to Ananshia's AI Playground! This GitHub repository is a showcase of Ananshia's passion  intelligence, machine learning, and Python projects. Dive into the world of AI experimentation and data-driven exploration.   
+
 # Hotel Reservation App
 
 This is a simple hotel reservation application built using Python and the Tkinter library. The application allows users to sign up, log in, and make hotel room reservations. Here's a brief overview of the application and its functionality.
